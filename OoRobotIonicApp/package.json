@@ -22,7 +22,7 @@
     "@angular/platform-browser-dynamic": "6.1.10",
     "@ionic-native/barcode-scanner": "^4.20.0",
     "@ionic-native/bluetooth-serial": "^4.20.0",
-    "@ionic-native/core": "4.15.0",
+    "@ionic-native/core": "4.20.0",
     "@ionic-native/dialogs": "^4.20.0",
     "@ionic-native/qr-scanner": "^4.20.0",
     "@ionic-native/screen-orientation": "^4.20.0",
