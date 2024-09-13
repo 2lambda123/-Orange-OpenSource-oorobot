@@ -53,7 +53,7 @@
     "rxjs-compat": "^6.4.0",
     "sw-toolbox": "3.6.0",
     "webcom": "^2.15.11",
-    "zone.js": "0.14.10"
+    "zone.js": "0.15.0"
   },
   "devDependencies": {
     "@ionic/app-scripts": "^3.2.4",
